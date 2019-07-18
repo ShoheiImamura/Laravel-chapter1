@@ -328,7 +328,3 @@ https://github.com/ShoheiImamura/laravel-chapter1/tree/master/sampleapp
 - Mailer クラスでメールを送信する
 
 [RegisteredListener.php](https://github.com/ShoheiImamura/laravel-chapter1/blob/master/sampleapp/app/Listeners/RegisteredListener.php)
-
-[]
-
----
