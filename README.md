@@ -89,6 +89,7 @@ transition: "default"
 
 - ※今村は Homestead が動かせなかったため
 - 以降の節では、Laradock を用いています
+
 ---
 
 ### 1-3-1 Laravel のディレクトリ構成
