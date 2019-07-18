@@ -5,16 +5,16 @@ transition: "default"
 
 ---
 
+## 1章 Laravelの概要
+
+---
+
 ## はじめに
 
 - 今村昌平と申します。
 - Web業務システム受託の会社で勤務(1年半)
 - 自分で Webアプリ作成中(マニュアル共有アプリ)
-- その前は、動物のお医者さん
-
----
-
-## 1章 Laravelの概要
+- Web業界入る前は、動物のお医者さん
 
 --
 
@@ -122,6 +122,14 @@ https://github.com/ShoheiImamura/laravel-chapter1/tree/master/sampleapp
 ---
 
 ### 1-3-2 Welcomeページの処理
+
+--
+
+#### イメージ
+
+![ページの表示フロー](https://laravel10.files.wordpress.com/2015/02/laravel_mvc1.png?w=620)
+
+参考:[ララ帳](https://laravel10.wordpress.com/2015/02/15/%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AElaravel-5-1-%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%83%95%E3%83%AD%E3%83%BC/)
 
 --
 
