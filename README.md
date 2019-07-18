@@ -328,3 +328,12 @@ https://github.com/ShoheiImamura/laravel-chapter1/tree/master/sampleapp
 - Mailer クラスでメールを送信する
 
 [RegisteredListener.php](https://github.com/ShoheiImamura/laravel-chapter1/blob/master/sampleapp/app/Listeners/RegisteredListener.php)
+
+---
+
+### 最後に
+
+- Laravel のチュートリアル
+[はじめてのLaravel5.5入門 ~AWS Cloud9で学ぶ~](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AELaravel5-5%E5%85%A5%E9%96%80-AWS-Cloud9%E3%81%A7%E5%AD%A6%E3%81%B6-%E5%B1%B1%E5%B4%8E-%E5%A4%A7%E5%8A%A9-ebook/dp/B07R9RPVCR/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=laravel&qid=1563447267&s=gateway&sr=8-5)  
+
+[Qiita:最新版 Laravel 5.7向け チュートリアル](https://qiita.com/bboobbaa/items/cf0d7910161d69be2429)
