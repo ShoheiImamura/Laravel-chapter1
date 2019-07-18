@@ -23,7 +23,6 @@ class RegisteredListener
     {
         $this->mailer = $mailer;
         $this->eloquent = $eloquent;
-        \Log::debug('イベントリス運');
     }
 
     /**

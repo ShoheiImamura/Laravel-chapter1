@@ -302,7 +302,24 @@ https://github.com/ShoheiImamura/laravel-chapter1/tree/master/sampleapp
 
 [.envファイルの設定](https://github.com/ShoheiImamura/laravel-chapter1/blob/master/sampleapp/.env.example#L25-L30)※.exapmle.env
 
+--
 
+#### イベントとリスナーのファイル作成
 
+- app/Providers/EventServiceProvider.php にリスナーを定義する
+- コマンドライン`php artisan event:generate`からリスナーを作成する
+
+[EventServiceProvider.php](https://github.com/ShoheiImamura/laravel-chapter1/blob/master/sampleapp/app/Providers/EventServiceProvider.php#L19-L21)
+
+--
+
+#### リスナークラスの実装
+
+- イベント発生時に、リスナークラスの handle メソッドが実行される
+- Mailer クラスでメールを送信する
+
+[RegisteredListener.php](https://github.com/ShoheiImamura/laravel-chapter1/blob/master/sampleapp/app/Listeners/RegisteredListener.php)
+
+[]
 
 ---
